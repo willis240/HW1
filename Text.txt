@@ -1,2 +1,3 @@
 Hello
-Edited on desktop
+Fixed merge conflict
+
